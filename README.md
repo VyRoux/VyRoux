@@ -1,5 +1,12 @@
 ## Yo, this is VyRoux.
-> Weird username...
+
+What i learn:
+- Javascript (little),
+- Python (little).
+
+What i working on:
+- Telegram Bot
+
 
 <!--
 **VyRoux/VyRoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
