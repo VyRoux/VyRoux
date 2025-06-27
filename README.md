@@ -1,10 +1,10 @@
 ## Yo, this is VyRoux.
 
-What i learn:
+What I learn:
 - Javascript (little),
 - Python (little).
 
-What i working on:
+What I working on:
 - Telegram Bot
 
 
