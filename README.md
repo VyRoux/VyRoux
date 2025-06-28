@@ -1,4 +1,4 @@
-<p aligh="center">
+<p align="center">
   <img src="https://github/Vyroux/VyRoux/blob/main/src/banner.jpg?raw=true">
 </p>
 
