@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vyroux/VyRoux/blob/main/src/banner.png?raw=true" height="100%" width="100%">
+  <img src="https://github.com/Vyroux/VyRoux/blob/main/src/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 
 ## Yo, this is VyRoux.
