@@ -5,12 +5,10 @@
 ## Yo, this is VyRoux.
 
 What I learn:
-- Javascript (little),
-- Python (little).
+- Javascript,
 
 What I working on:
-- Telegram Bot
-- Website
+- Whatsapp Bot
 
 
 <!--
